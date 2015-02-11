@@ -5,7 +5,10 @@
 	
 	<header>Let Dancing </header>
 	<section>Hello Son, Thein!</section>
+	<aside>Let go</aside>
+	<input type="range" name="apple">
 	<footer>Do not Trace me! </footer>
 	
 	</body>
+	
 </html>
