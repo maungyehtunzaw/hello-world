@@ -7,8 +7,7 @@
 	<section>Hello Son, Thein!</section>
 	<aside>Let go</aside>
 	<input type="range" name="apple">
-	<footer>Do not Trace me! </footer>
-	
+	<footer>Do not Trace me!@Maung Ye Htun Zaw <?=DATE('Y'); ?></footer>
 	</body>
 	
 </html>
